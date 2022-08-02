@@ -1,4 +1,4 @@
-package codingtest;
+package algorithm;
 import java.io.*;
 
 class reverse {
